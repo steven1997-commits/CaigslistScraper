@@ -1,0 +1,11 @@
+C:\Users\Shi Yao Chu\Desktop\webdev\Scraper\bin\Debug\netcoreapp2.2\Scraper.deps.json
+C:\Users\Shi Yao Chu\Desktop\webdev\Scraper\bin\Debug\netcoreapp2.2\Scraper.runtimeconfig.json
+C:\Users\Shi Yao Chu\Desktop\webdev\Scraper\bin\Debug\netcoreapp2.2\Scraper.runtimeconfig.dev.json
+C:\Users\Shi Yao Chu\Desktop\webdev\Scraper\bin\Debug\netcoreapp2.2\Scraper.dll
+C:\Users\Shi Yao Chu\Desktop\webdev\Scraper\bin\Debug\netcoreapp2.2\Scraper.pdb
+C:\Users\Shi Yao Chu\Desktop\webdev\Scraper\obj\Debug\netcoreapp2.2\Scraper.csprojAssemblyReference.cache
+C:\Users\Shi Yao Chu\Desktop\webdev\Scraper\obj\Debug\netcoreapp2.2\Scraper.csproj.CoreCompileInputs.cache
+C:\Users\Shi Yao Chu\Desktop\webdev\Scraper\obj\Debug\netcoreapp2.2\Scraper.AssemblyInfoInputs.cache
+C:\Users\Shi Yao Chu\Desktop\webdev\Scraper\obj\Debug\netcoreapp2.2\Scraper.AssemblyInfo.cs
+C:\Users\Shi Yao Chu\Desktop\webdev\Scraper\obj\Debug\netcoreapp2.2\Scraper.dll
+C:\Users\Shi Yao Chu\Desktop\webdev\Scraper\obj\Debug\netcoreapp2.2\Scraper.pdb
